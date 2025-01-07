@@ -1,16 +1,27 @@
-## Hi there 👋
+```
+i only wanted to write cute programs and little automations, when did the topic become AI ethics
 
-<!--
-**arda-y/arda-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+days without server problems: more than 0, subject to change frequently
 
-Here are some ideas to get you started:
+currently working on a variety of things, here's a few:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* there was a few projects listed but i'm too forgetful to actually update this list. instead you'll get an ascii cat.
+
+       _                        
+       \`*-.                    
+        )  _`-.                 
+       .  : `. .                
+       : _   '  \               
+       ; *` _.   `*-._          
+       `-.-'          `-.       
+         ;       `       `.     
+         :.       .        \    
+         . \  .   :   .-'   .   
+         '  `+.;  ;  '      :   
+         :  '  |    ;       ;-. 
+         ; '   : :`-:     _.`* ;
+[bug] .*' /  .*' ; .*`- +'  `*' 
+      `*-*   `*-*  `*-*'
+
+art by blazej kozlowski
+```
